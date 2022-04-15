@@ -1,0 +1,2 @@
+# SENet
+A basic SENet, a subcategory of CNN, which run under Apple Conda environment which has tensorflow macro as well as tensorflow metal extension through miniforge3. This project compares an SENet implementation with a traditional CNN implementation using the same set of hyperparameters and shows SENet has more accuracy. The dataset used in this project is CIFAR-100.  This project is adapted from SENet_Keras by RayXie29.
